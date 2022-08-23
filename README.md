@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning to code javascript 
 - 💞️ I’m looking to collaborate on everything connected with crypto 
 - 📫 How to reach me, you can find me on discord: raul123#4329 
-- follow me on twitter @FernandezRaul65
 
 <!---
 RaulFernan/RaulFernan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
